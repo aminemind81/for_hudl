@@ -1,0 +1,11 @@
+C:\Users\Abdelkader\source\repos\HUDL\Script_Test_HUDL\Script_Test_HUDL\bin\Release\Script_Test_HUDL.exe.config
+C:\Users\Abdelkader\source\repos\HUDL\Script_Test_HUDL\Script_Test_HUDL\bin\Release\Script_Test_HUDL.exe
+C:\Users\Abdelkader\source\repos\HUDL\Script_Test_HUDL\Script_Test_HUDL\bin\Release\Script_Test_HUDL.pdb
+C:\Users\Abdelkader\source\repos\HUDL\Script_Test_HUDL\Script_Test_HUDL\bin\Release\WebDriver.dll
+C:\Users\Abdelkader\source\repos\HUDL\Script_Test_HUDL\Script_Test_HUDL\bin\Release\WebDriver.Support.dll
+C:\Users\Abdelkader\source\repos\HUDL\Script_Test_HUDL\Script_Test_HUDL\bin\Release\WebDriver.xml
+C:\Users\Abdelkader\source\repos\HUDL\Script_Test_HUDL\Script_Test_HUDL\bin\Release\WebDriver.Support.xml
+C:\Users\Abdelkader\source\repos\HUDL\Script_Test_HUDL\Script_Test_HUDL\obj\Release\Script_Test_HUDL.csproj.CoreCompileInputs.cache
+C:\Users\Abdelkader\source\repos\HUDL\Script_Test_HUDL\Script_Test_HUDL\obj\Release\Script_Test_HUDL.exe
+C:\Users\Abdelkader\source\repos\HUDL\Script_Test_HUDL\Script_Test_HUDL\obj\Release\Script_Test_HUDL.pdb
+C:\Users\Abdelkader\source\repos\HUDL\Script_Test_HUDL\Script_Test_HUDL\obj\Release\Script_Test_HUDL.csprojResolveAssemblyReference.cache
